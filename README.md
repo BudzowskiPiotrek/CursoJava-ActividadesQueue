@@ -1,4 +1,4 @@
-## CursoJava-ActividadesQueue
+# 📚 Curso de Java : Actividades con las colecciones Queue
 
 Actividad 1:
 
